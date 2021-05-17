@@ -42,3 +42,8 @@ node index.js
   "dev_role_id" : "" //ID of the role that has acces to the discord bot "also requires developer mode to be enabled"
 }
 ```
+
+## Upcoming features
+
+- Anti afk
+- Multiple alts management
