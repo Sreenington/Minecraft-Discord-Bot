@@ -7,6 +7,7 @@
 ## Features
 
 - Display server chat in a specified channel
+- Supports Premium/Cracked
 - Sudo command 
 - Ping command
 - Exit command
