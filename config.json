@@ -1,0 +1,12 @@
+{
+  "ver" : "1.8.9",
+  "ip" : "",
+  "username" : "",
+  "mcpass" : "",
+  "auth" : "mojang",
+  "password" : "",
+  "token" : "",
+  "mc_discord_chat" : "",
+  "bot_prefix" : "=",
+  "dev_role_id" : ""
+}
