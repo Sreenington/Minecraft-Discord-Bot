@@ -1,5 +1,5 @@
 # Minecraft-Discord-Bot
-## A simple mineflayer afk bot which you can hook up to a discord bot
+## A simple mineflayer afk bot controlled using a discord bot
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/Sreenington/Minecraft-Discord-Bot)
 
