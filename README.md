@@ -15,7 +15,7 @@
 
 ## Installation
 
-Dillinger requires [Node.js](https://nodejs.org/) v14.17.0
+MC-Discord Bot requires [Node.js](https://nodejs.org/) v14.17.0
 
 After cloning, make sure to edit the config.json file
 
